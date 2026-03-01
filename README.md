@@ -1,4 +1,4 @@
-# Prototipo de sistema de alerta temprana para predecir la deserción en EMS usando XGBoost, SHAP y LLMs
+# Prototipo de sistema de alerta temprana para predecir la deserción en Educación Media Superior usando XGBoost, SHAP y LLMs
 
 Este repositorio contiene el Producto Mínimo Viable (MVP) para el desarrollo de un Copiloto Inteligente de Retención Escolar.
 
